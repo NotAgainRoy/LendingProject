@@ -3,8 +3,8 @@
 
 ## 🌐 Hosted UI (Vercel)
 I’ve created a fully functional front-end for this lending platform and deployed it on Vercel for easier testing and interaction. The deployed UI provides an intuitive way to interact with the smart contract without the need to deploy it manually.
-
- **Vercel Link:** https://lending-pool.vercel.app/  
+  **Vercel Link 1 :** https://lending-pearl.vercel.app/
+ **Vercel Link 2  :** https://lending-pool.vercel.app/  
 
 Deploy all these step by step :-
 1. **ERC20 (Collateral Token)**  
