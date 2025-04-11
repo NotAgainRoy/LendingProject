@@ -135,4 +135,3 @@ This was an end-to-end DeFi lending/borrowing platform simulation built as part 
 The liquidation mechanism is implemented at the smart contract level and is fully functional. However, it's not currently exposed via the frontend UI. You can test the liquidation by calling the liquidate() function directly via script or contract interaction using remix or hardhat. I’m planning to add a test case in Hardhat to demonstrate how and when liquidation should be triggeredwhen a borrower's health factor falls below the threshold.
 
 
-# newLendingProject
